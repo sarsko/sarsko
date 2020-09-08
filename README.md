@@ -10,4 +10,4 @@ Maybe it is [NetNewsWire](https://ranchero.com/netnewswire/)
 
 It is probably something else
 
-Perhaps [Newsboat](https://newsboat.org/)
+It is probably [Newsboat](https://newsboat.org/)
